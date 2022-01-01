@@ -1,4 +1,4 @@
-# vue-farfetch-temp
+# vue-farfetch
 
 ## Project setup
 ```
